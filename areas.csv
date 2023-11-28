@@ -1,0 +1,91 @@
+options,area
+Statistical Institute,A_number
+I am meticulous and detail-oriented,A_number
+Play chess,A_number
+Mathematical,A_number
+Design a Computer Program,A_number
+Complex Ideas,A_number
+Mark Zuckerberg,A_number
+Economy,A_number
+Analytical,A_number
+Solve Astronomical Puzzles,A_number
+Chemical lab,B_biology
+I am persevering,B_biology
+Watch science fiction movies,B_biology
+Scientist,B_biology
+Build a satellite,B_biology
+Scientific Ideas,B_biology
+Albert Einstein,B_biology
+Industrial Repair,B_biology
+Curious,B_biology
+Do genetic experiments,B_biology
+Mechanic service,C_realistic
+I am observant,C_realistic
+Practice any sport,C_realistic
+Engineer,C_realistic
+Invent a new type of engine,C_realistic
+Vehicles and all types of Engine,C_realistic
+Neil Armstrong,C_realistic
+Transport,C_realistic
+Independent,C_realistic
+Design Integrative Weapons,C_realistic
+Tourist travel agency,D_altruistic
+I am humanitarian,D_altruistic
+Share in social gatherings,D_altruistic
+Ambassador Abroad,D_altruistic
+Give First Aid,D_altruistic
+Educational projects,D_altruistic
+Mother Teresa,D_altruistic
+Public and administrative attention,D_altruistic
+Generous,D_altruistic
+Study the interaction between humans and artificial intelligence,D_altruistic
+Journalism Editor,E_comunication
+I am a dreamer,E_comunication
+Write my experiences on social networks,E_comunication
+Literary critic,E_comunication
+Write a novel,E_comunication
+Original ideas,E_comunication
+Mario Vargas Llosa,E_comunication
+Institutional Image,E_comunication
+Imaginative,E_comunication
+Study Galactic Philosophy,E_comunication
+Business Corporation,F_people_organization
+I am an entrepreneur,F_people_organization
+Discuss politics,F_people_organization
+Battalion General,F_people_organization
+Found a company,F_people_organization
+Business projects,F_people_organization
+Benjamin Franklin,F_people_organization
+Sales,F_people_organization
+Adventurous,F_people_organization
+Colonize a planet,F_people_organization
+Art Gallery,G_artistic
+I'm creative,G_artistic
+compose a song,G_artistic
+Independent Artist,G_artistic
+Make a monument in Metal,G_artistic
+Artistic Ideas,G_artistic
+Pablo Picasso,G_artistic
+Advertising,G_artistic
+Outgoing,G_artistic
+Design space suits,G_artistic
+Accounting study,H_accounting
+I'm organized,H_accounting
+Play cards,H_accounting
+Counter,H_accounting
+Discover bank fraud,H_accounting
+Written or Numeric Data,H_accounting
+Champollion,H_accounting
+Wages and salaries,H_accounting
+Obedient,H_accounting
+Send message to starfleet,H_accounting
+Legal study,I_laws
+I am empathetic,I_laws
+Discuss with my friends,I_laws
+Conciliator,I_laws
+Know the laws and regulations,I_laws
+Political Constitution of Peru,I_laws
+Martin Luther King,I_laws
+Legal advice,I_laws
+Equitable,I_laws
+interstellar ambassador,I_laws
